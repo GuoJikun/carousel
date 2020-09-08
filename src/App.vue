@@ -6,9 +6,9 @@
             <h2>基础用法</h2>
             <div>
                 <fox-carousel height="300">
-                    <fox-carousel-item></fox-carousel-item>
-                    <fox-carousel-item></fox-carousel-item>
-                    <fox-carousel-item></fox-carousel-item>
+                    <fox-carousel-item>1</fox-carousel-item>
+                    <fox-carousel-item>2</fox-carousel-item>
+                    <fox-carousel-item>3</fox-carousel-item>
                 </fox-carousel>
             </div>
         </div>

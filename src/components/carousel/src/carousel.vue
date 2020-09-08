@@ -42,7 +42,8 @@ export default {
 .fox-carousel {
     display: block;
     &__indicator {
-        position: relative;
+        display: flex;
+        justify-content: center;
     }
 }
 </style>
